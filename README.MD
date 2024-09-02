@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte do curso de **Data Science usando Python** da **Faculdade Impacta**. O objetivo do projeto é aplicar técnicas de análise de dados e aprendizado de máquina em um conjunto de dados específico para extrair insights e construir modelos preditivos.
+Este projeto foi desenvolvido como parte do curso de **Data Science usando Python** da **Faculdade Impacta**. O objetivo do projeto é aplicar técnicas de análise de dados.
 
 ## Objetivos
 
